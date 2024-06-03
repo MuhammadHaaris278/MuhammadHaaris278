@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi there 👋
+I’m a passionate software developer based in Lahore, Pakistan.
 
-<!--
-**MuhammadHaaris278/MuhammadHaaris278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Web Dev Enthusiast: I love crafting pixel-perfect websites using HTML, CSS, and JavaScript. Whether it’s responsive designs or interactive animations, count me in!
+📚 Lifelong Learner: The tech world evolves faster than a SpaceX rocket. I’m always learning, whether it’s about new frameworks, algorithms, or the latest memes.
+🎮 Gamer: When I’m not debugging, you’ll find me lost in gaming.
+📫 Contact
+Phone Number: 03449444702
+Gmail: muhammad.haaris2003@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: Alive on gaming
