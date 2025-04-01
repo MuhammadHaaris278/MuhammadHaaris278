@@ -1,12 +1,15 @@
-Hi there 👋
-I’m a passionate software developer based in Lahore, Pakistan.
+# Hey, I'm Muhammad Haaris! 🚀  
 
-🌐 Web Dev Enthusiast: I love crafting pixel-perfect websites using HTML, CSS, and JavaScript. Whether it’s responsive designs or interactive animations, count me in! <br>
-📚 Lifelong Learner: The tech world evolves faster than a SpaceX rocket. I’m always learning, whether it’s about new frameworks, algorithms, or the latest memes. <br>
-🎮 Gamer: When I’m not debugging, you’ll find me lost in gaming. <br>
-📫 Contact <br>
-Phone Number: 03449444702 <br>
-Gmail: muhammad.haaris2003@gmail.com <br>
-😄 Pronouns: He/Him <br>
-⚡ Fun fact: Alive on gaming
- 
+Welcome to my digital playground! I’m a **Generative AI & Web Dev enthusiast** who loves turning caffeine into code. Based in **Lahore, Pakistan**, I spend my days crafting AI-powered magic and my nights lost in gaming realms.  
+
+## 🌟 Who Am I?  
+- 🧠 **AI Whisperer** – If machines could talk, I’d be their best friend.  
+- 🎨 **Web Alchemist** – Pixels and code are my paintbrush and canvas.  
+- 🎮 **Gamer at Heart** – Debugging in the day, gaming at night. Balance.  
+- 📚 **Forever a Student** – Tech evolves faster than my WiFi disconnects, so I’m always learning.  
+
+## ✉️ Let’s Connect!  
+📧 **Email:** muhammad.haaris2003@gmail.com  
+📞 **Phone:** 03449444702  
+
+**Fun Fact:** I can stare at a bug for hours and still not see it—until I step away for a tekken match. 🎮
