@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Muhammad Haaris! 🚀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" alt="Coding with gaming spirit" width="400">
+  ![Image](https://github.com/user-attachments/assets/74014468-707b-40e2-a11e-ef4fbbc5ee5b)
 </p>
 
 ---
