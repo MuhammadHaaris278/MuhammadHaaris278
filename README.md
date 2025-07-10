@@ -1,12 +1,10 @@
 # 👋 Hey, I'm Muhammad Haaris! 🚀
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/261bbd7a-264b-4cf4-b470-58f8489be1e8">
-    <img src="https://media.giphy.com/media/koWdZlqfj2w5M/giphy.gif" alt="Tekken Coding GIF - Click to View Yours" width="400"/>
+  <a href="https://github.com/user-attachments/assets/c0cad1e5-d124-45f0-8a1e-a5c7a95db213">
+    <img src="https://github.com/user-attachments/assets/c0cad1e5-d124-45f0-8a1e-a5c7a95db213" alt="Haaris Banner" width="500"/>
   </a>
 </p>
-
-
 ---
 
 ### 🌟 About Me
