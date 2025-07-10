@@ -34,9 +34,6 @@ I'm a **Generative AI & Web Development enthusiast** from **Lahore, Pakistan**, 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadHaaris278&theme=github_dark" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHaaris278&show_icons=true&theme=github_dark" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadHaaris278&theme=github-dark&hide_border=false" />
 </div>
 
