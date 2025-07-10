@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Muhammad Haaris! 🚀
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF4aml3eGk5ZW42dm9tMTUyZDh4OWtieTJqcDMwdWJ2aWluaTE5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgIc0lryrxvqVGM/giphy.gif" alt="Developer Animation" width="400">
+  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF4aml3eGk5ZW42dm9tMTUyZDh4OWtieTJqcDMwdWJ2aWluaTE5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgIc0lryrxvqVGM/giphy.gif" alt="Developer Animation" width="400](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)">
 </p>
 
 ---
