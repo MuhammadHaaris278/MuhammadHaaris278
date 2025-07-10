@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Muhammad Haaris! 🚀
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/74014468-707b-40e2-a11e-ef4fbbc5ee5b" alt="Banner Image" />
+  <img src="https://github.com/MuhammadHaaris278/MuhammadHaaris278/issues/2#issue-3218118021" alt="Banner Image" />
 </p>
 
 ---
