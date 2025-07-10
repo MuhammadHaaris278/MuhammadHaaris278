@@ -1,8 +1,11 @@
 # 👋 Hey, I'm Muhammad Haaris! 🚀
 
 <p align="center">
-  <img src="https://github.com/MuhammadHaaris278/MuhammadHaaris278/issues/2#issue-3218118021" alt="Banner Image" />
+  <a href="https://github.com/user-attachments/assets/261bbd7a-264b-4cf4-b470-58f8489be1e8">
+    <img src="https://media.giphy.com/media/koWdZlqfj2w5M/giphy.gif" alt="Tekken Coding GIF - Click to View Yours" width="400"/>
+  </a>
 </p>
+
 
 ---
 
