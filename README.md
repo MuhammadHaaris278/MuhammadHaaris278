@@ -1,8 +1,6 @@
 # 👋 Hey, I'm Muhammad Haaris! 🚀
 
-<p align="center">
   ![Image](https://github.com/user-attachments/assets/74014468-707b-40e2-a11e-ef4fbbc5ee5b)
-</p>
 
 ---
 
