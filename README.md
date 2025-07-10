@@ -5,16 +5,17 @@
     <img src="https://github.com/user-attachments/assets/c0cad1e5-d124-45f0-8a1e-a5c7a95db213" alt="Haaris Banner" width="500"/>
   </a>
 </p>
+
 ---
 
-### 🌟 About Me
+### ✨ About Me
 
-- 🧠 **AI Whisperer** – If machines could talk, I’d be their best friend.  
-- 🎨 **Web Alchemist** – Pixels and code are my paintbrush and canvas.  
-- 🎮 **Gamer at Heart** – Debugging in the day, Tekken combos at night.  
-- 📚 **Forever a Student** – Tech evolves faster than my WiFi disconnects, so I’m always learning.  
+- 🧬 **AI Tinkerer** – Crafting neural magic, from whispering to transformers. If there's a model to fine-tune, I'm on it.  
+- 🧩 **Web Craftsman** – Sculpting interactive, pixel-perfect interfaces using modern stacks and creative intuition.  
+- ⚔️ **Code Warrior by Day, Tekken Slayer by Night** – Living that dual life of debugging and dishing out juggles.  
+- 🧠 **Relentless Learner** – In the ever-evolving universe of tech, I chase mastery like a main quest.  
 
-I'm a **Generative AI & Web Development enthusiast** from **Lahore, Pakistan**, passionate about building cool tools, smart assistants, and anything that mixes creativity with code. I live and breathe development, and occasionally yell at bugs (lovingly).
+I'm a **Generative AI and Full-Stack Web Developer** from **Lahore, Pakistan**, blending logic with creativity to build smart systems, intelligent assistants, and intuitive user experiences. Whether it's orchestrating backend engines or prototyping AI pipelines, I'm always pushing boundaries and refining my craft.
 
 ---
 
