@@ -91,7 +91,7 @@ I'm a **Generative AI and Full-Stack Web Developer** from **Lahore, Pakistan** ð
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
