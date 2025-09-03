@@ -8,12 +8,12 @@
 
 ## ✨ About Me
 
-🧬 **AI Engineer** – Crafting neural magic, from whispering to transformers. If there's a model to fine-tune, I'm on it.  
-🧩 **Full-Stack Developer** – Sculpting interactive, pixel-perfect interfaces using modern stacks and creative intuition.  
-⚔️ **Code Warrior by Day, Tekken Slayer by Night** – Living that dual life of debugging and dishing out juggles.  
-🧠 **Relentless Learner** – In the ever-evolving universe of tech, I chase mastery like a main quest.  
+🤖 **AI Engineer** – Specializing in machine learning, deep learning, and generative AI systems. Experienced in model fine-tuning, neural network architectures, and AI deployment at scale.  
+💻 **Full-Stack Developer** – Building end-to-end applications with modern frameworks and technologies. Focused on creating scalable, user-centric solutions with clean, maintainable code.  
+🎮 **Tech Enthusiast** – Balancing professional development with gaming passion. When I'm not debugging code, you'll find me mastering combos in Tekken.  
+📚 **Continuous Learner** – Staying current with emerging technologies and industry best practices. Always exploring new tools and methodologies to enhance my technical expertise.  
 
-I'm a **Generative AI and Full-Stack Web Developer** from **Lahore, Pakistan** 🇵🇰, blending logic with creativity to build smart systems, intelligent assistants, and intuitive user experiences. Whether it's orchestrating backend engines or prototyping AI pipelines, I'm always pushing boundaries and refining my craft.
+I'm a **Generative AI and Full-Stack Web Developer** based in **Lahore, Pakistan** 🇵🇰, combining technical expertise with creative problem-solving to develop intelligent systems and seamless user experiences. From backend architecture to AI model deployment, I focus on delivering robust, innovative solutions that push technological boundaries.
 
 ---
 
