@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Muhammad Haaris! 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+Full-Stack+Developer;Generative+AI+Specialist;Neural+Networks+Enthusiast;Code+Warrior+by+Day;Tekken+Slayer+by+Night&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Full-Stack+Developer;Generative+AI+Specialist;Neural+Networks+Enthusiast;Code+Warrior+by+Day;Tekken+Slayer+by+Night&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000&background=000000" />
 </p>
 
 ---
