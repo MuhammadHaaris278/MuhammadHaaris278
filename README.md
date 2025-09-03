@@ -26,7 +26,7 @@ I'm a **Generative AI and Full-Stack Web Developer** from **Lahore, Pakistan** ğ
   <a href="mailto:muhammad.haaris2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/haaris278" target="_blank">
+  <a href="https://instagram.com/haaris_278" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://medium.com/@muhammad.haaris2003" target="_blank">
@@ -110,9 +110,5 @@ I'm a **Generative AI and Full-Stack Web Developer** from **Lahore, Pakistan** ğ
 ---
 
 <div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=MuhammadHaaris278&icon=2&color=6)](https://visitcount.itsvg.in)
-
-**Made with â¤ï¸ and lots of â˜•**
 
 </div>
