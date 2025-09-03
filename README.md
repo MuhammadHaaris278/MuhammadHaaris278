@@ -17,20 +17,14 @@ I'm a **Generative AI and Full-Stack Web Developer** based in **Lahore, Pakistan
 
 ---
 
-## 🌐 Connect With Me
+### ✉️ Let’s Connect
+
+📧 **Email**: [muhammad.haaris2003@gmail.com](mailto:muhammad.haaris2003@gmail.com)  
+📞 **Phone**: 03449444702
 
 <p align="center">
-  <a href="https://linkedin.com/in/haaris278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muhammad.haaris2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/haaris_278" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@muhammad.haaris2003" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://www.linkedin.com/in/haaris278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
@@ -77,38 +71,10 @@ I'm a **Generative AI and Full-Stack Web Developer** based in **Lahore, Pakistan
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadHaaris278&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 💭 Daily Inspiration
 
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-## 🔝 Most Contributed Repositories
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=MuhammadHaaris278&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-## ⚡ Fun Fact
-
-> _"I can stare at a bug for hours and still not see it—until I step away for a Tekken match."_ 🎮
-
----
-
-<div align="center">
 
 </div>
